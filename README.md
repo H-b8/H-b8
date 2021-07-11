@@ -1,4 +1,7 @@
-### Hi there 👋
+### import { CarolineBaites } from 'Los-Angeles-CA';
+
+const myDescriptors = [ 'Artist', 'Designer', 'Developer', 'Advocate' ];</br>
+let myPronouns = [ 'She', 'Her' ];
 
 <!--
 **H-b8/H-b8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
