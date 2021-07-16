@@ -1,6 +1,7 @@
 ### import { CarolineBaites } from 'Los-Angeles-CA';
 
-<b>const descriptors = [</b> 'Artist', 'Designer', 'Developer', 'Advocate' <b>];</br>
+<b>const descriptors = [</b> 'Artist', 'Designer', 'Developer', 'Advocate' <b>];
+
 let pronouns = [</b> 'She', 'Her' <b>];
   
 let currentEndeavors = {</b></br>
