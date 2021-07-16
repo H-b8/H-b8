@@ -1,12 +1,12 @@
 ### import { CarolineBaites } from 'Los-Angeles-CA';
 
-const descriptors = [ 'Artist', 'Designer', 'Developer', 'Advocate' ];</br>
-let pronouns = [ 'She', 'Her' ];
+<b>const descriptors = [</b> 'Artist', 'Designer', 'Developer', 'Advocate' <b>];</br>
+let pronouns = [</b> 'She', 'Her' <b>];
 
-let currentEndeavors = {</br>
+let currentEndeavors = {</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp; fullstackDeveloper: <a href="http://bodyofworkers.com/" target="_blank">Body of Workers</a>,</br>
 &nbsp;&nbsp;&nbsp;&nbsp; instructorAssociate: <a href="http://generalassemb.ly/" target="_blank">General Assembly</a></br>
-};
+<b>};</b>
 
 <!--
 **H-b8/H-b8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
