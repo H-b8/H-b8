@@ -1,7 +1,7 @@
 ### import { CarolineBaites } from 'Los-Angeles-CA';
 
-const myDescriptors = [ 'Artist', 'Designer', 'Developer', 'Advocate' ];</br>
-let myPronouns = [ 'She', 'Her' ];
+const descriptors = [ 'Artist', 'Designer', 'Developer', 'Advocate' ];</br>
+let pronouns = [ 'She', 'Her' ];
 
 let CurrentEndeavors = {</br>
 &nbsp;&nbsp;&nbsp;&nbsp; fullstackDeveloper: <a href="http://bodyofworkers.com/" target="_blank">Body of Workers</a>,</br>
