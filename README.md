@@ -3,6 +3,11 @@
 const myDescriptors = [ 'Artist', 'Designer', 'Developer', 'Advocate' ];</br>
 let myPronouns = [ 'She', 'Her' ];
 
+let CurrentEndeavors = {</br>
+&nbsp;&nbsp;&nbsp;&nbsp; fullstackDeveloper: [Body of Workers](http://bodyofworkers.com/),</br>
+&nbsp;&nbsp;&nbsp;&nbsp; instructorAssociate: [General Assembly](http://generalassemb.ly/)</br>
+};
+
 <!--
 **H-b8/H-b8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
