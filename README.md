@@ -4,8 +4,8 @@ const myDescriptors = [ 'Artist', 'Designer', 'Developer', 'Advocate' ];</br>
 let myPronouns = [ 'She', 'Her' ];
 
 let CurrentEndeavors = {</br>
-&nbsp;&nbsp;&nbsp;&nbsp; fullstackDeveloper: [Body of Workers](http://bodyofworkers.com/),</br>
-&nbsp;&nbsp;&nbsp;&nbsp; instructorAssociate: [General Assembly](http://generalassemb.ly/)</br>
+&nbsp;&nbsp;&nbsp;&nbsp; fullstackDeveloper: <a href="http://bodyofworkers.com/" target="_blank">Body of Workers</a>,</br>
+&nbsp;&nbsp;&nbsp;&nbsp; instructorAssociate: <a href="http://generalassemb.ly/" target="_blank">General Assembly</a></br>
 };
 
 <!--
