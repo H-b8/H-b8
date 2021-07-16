@@ -2,7 +2,7 @@
 
 <b>const descriptors = [</b> 'Artist', 'Designer', 'Developer', 'Advocate' <b>];</br>
 let pronouns = [</b> 'She', 'Her' <b>];
-
+  
 let currentEndeavors = {</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp; fullstackDeveloper: <a href="http://bodyofworkers.com/" target="_blank">Body of Workers</a>,</br>
 &nbsp;&nbsp;&nbsp;&nbsp; instructorAssociate: <a href="http://generalassemb.ly/" target="_blank">General Assembly</a></br>
