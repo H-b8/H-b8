@@ -2,9 +2,9 @@
 
 <b>const myBigThree = [</b> 'Libra Sun', 'Caprisun Moon', 'Asparagus Rising' <b>];</br>
 let myDescriptors = [</b> 'Artist', 'Designer', 'Engineer' <b>];</br>
-let myPronouns = [</b> 'She', 'Her' <b>];
+let myPronouns = [</b> 'She', 'Her' <b>];</b>
 
-/* While you’re here, please donate to and support some of my favorite organizations! */
+/* * * While you’re here, please donate to and support some of my favorite organizations! * * */
 
 <a href="https://www.grapevine.org/giving-circle/PdWhoa/Black-Trans-Lives-Thrive" target="_blank" rel="noopener noreferrer">BLACK TRANS LIVES THRIVE</a> /
 <a href="https://www.glitsinc.org/donations" target="_blank" rel="noopener noreferrer">G.L.I.T.S. INC</a> /
