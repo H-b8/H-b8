@@ -7,7 +7,7 @@ let myPronouns = [</b> 'She', 'Her' <b>];</b>
 /* * * While you’re here, please consider supporting some of my favorite organizations! * * */
 
 <a href="https://www.grapevine.org/giving-circle/PdWhoa/Black-Trans-Lives-Thrive" target="_blank" rel="noopener noreferrer">BLACK TRANS LIVES THRIVE</a> /
-<a href="https://www.glitsinc.org/donations" target="_blank" rel="noopener noreferrer">G.L.I.T.S. INC</a> /
+<a href="https://www.glitsinc.org/donate" target="_blank" rel="noopener noreferrer">G.L.I.T.S. INC</a> /
 <a href="https://www.lysistratamccf.org/emergencyfund" target="_blank" rel="noopener noreferrer">LYSISTRATA MCCF</a> /
 <a href="https://pcrf1.app.neoncrm.com/forms/general" target="_blank" rel="noopener noreferrer">PCRF</a> /
 <a href="https://www.redcanarysong.net" target="_blank" rel="noopener noreferrer">RED CANARY SONG</a> /
