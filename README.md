@@ -1,13 +1,14 @@
 ### import { CarolineBaites } from 'Los-Angeles-CA';
 
 <b>const myBigThree = [</b> 'Librarian Sun', 'Caprisun Moon', 'Asparagus Rising' <b>];</br>
-let myDescriptors = [</b> 'Artist', 'Designer', 'Engineer' <b>];</br>
+let myDescriptors = [</b> 'Artist', 'Engineer', 'Astrological Mathematician', 'Aspiring DevOps Girlie' <b>];</br>
 let myPronouns = [</b> 'She', 'Her' <b>];</b>
 
 /* * * While you’re here, please consider supporting some of my favorite organizations! * * */
 
 🍉 &nbsp;<a href="https://secure.ippf.org/a/donate-monthly" target="_blank" rel="noopener noreferrer">IPPF</a> /
 <a href="https://pcrf1.app.neoncrm.com/forms/general" target="_blank" rel="noopener noreferrer">PCRF</a> /
+<a href="https://www.gofundme.com/f/pal-humanity-initiative" target="_blank" rel="noopener noreferrer">PAL HUMANITY</a>
 
 ☂️ <a href="https://www.lysistratamccf.org/emergencyfund" target="_blank" rel="noopener noreferrer">LYSISTRATA MCCF</a> /
 <a href="https://www.redcanarysong.net" target="_blank" rel="noopener noreferrer">RED CANARY SONG</a> /
