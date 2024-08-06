@@ -1,6 +1,6 @@
 ### import { CarolineBaites } from 'Los-Angeles-CA';
 
-<b>const myBigThree = [</b> 'Librarian Sun', 'Caprisun Moon', 'Asparagus Rising' <b>];</br>
+<b>const myBigThree = [</b> 'Libra Sun', 'Caprisun Moon', 'Asparagus Rising' <b>];</br>
 let myDescriptors = [</b> 'Artist', 'Engineer', 'Astrological Mathematician', 'Aspiring DevOps Girlie' <b>];</br>
 let myPronouns = [</b> 'She', 'Her' <b>];</b>
 
